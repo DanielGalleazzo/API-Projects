@@ -1,0 +1,17 @@
+C:\Users\danie\Desktop\ValidadorDeCep\ValidadorDeCep\bin\Debug\net8.0\ValidadorDeCep.exe
+C:\Users\danie\Desktop\ValidadorDeCep\ValidadorDeCep\bin\Debug\net8.0\ValidadorDeCep.deps.json
+C:\Users\danie\Desktop\ValidadorDeCep\ValidadorDeCep\bin\Debug\net8.0\ValidadorDeCep.runtimeconfig.json
+C:\Users\danie\Desktop\ValidadorDeCep\ValidadorDeCep\bin\Debug\net8.0\ValidadorDeCep.dll
+C:\Users\danie\Desktop\ValidadorDeCep\ValidadorDeCep\bin\Debug\net8.0\ValidadorDeCep.pdb
+C:\Users\danie\Desktop\ValidadorDeCep\ValidadorDeCep\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\danie\Desktop\ValidadorDeCep\ValidadorDeCep\obj\Debug\net8.0\ValidadorDeCep.csproj.AssemblyReference.cache
+C:\Users\danie\Desktop\ValidadorDeCep\ValidadorDeCep\obj\Debug\net8.0\ValidadorDeCep.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\Desktop\ValidadorDeCep\ValidadorDeCep\obj\Debug\net8.0\ValidadorDeCep.AssemblyInfoInputs.cache
+C:\Users\danie\Desktop\ValidadorDeCep\ValidadorDeCep\obj\Debug\net8.0\ValidadorDeCep.AssemblyInfo.cs
+C:\Users\danie\Desktop\ValidadorDeCep\ValidadorDeCep\obj\Debug\net8.0\ValidadorDeCep.csproj.CoreCompileInputs.cache
+C:\Users\danie\Desktop\ValidadorDeCep\ValidadorDeCep\obj\Debug\net8.0\Validado.70ADE3E8.Up2Date
+C:\Users\danie\Desktop\ValidadorDeCep\ValidadorDeCep\obj\Debug\net8.0\ValidadorDeCep.dll
+C:\Users\danie\Desktop\ValidadorDeCep\ValidadorDeCep\obj\Debug\net8.0\refint\ValidadorDeCep.dll
+C:\Users\danie\Desktop\ValidadorDeCep\ValidadorDeCep\obj\Debug\net8.0\ValidadorDeCep.pdb
+C:\Users\danie\Desktop\ValidadorDeCep\ValidadorDeCep\obj\Debug\net8.0\ValidadorDeCep.genruntimeconfig.cache
+C:\Users\danie\Desktop\ValidadorDeCep\ValidadorDeCep\obj\Debug\net8.0\ref\ValidadorDeCep.dll
