@@ -1,12 +1,25 @@
-﻿using ValidadorDeCep.GetSet;
-using ValidadorDeCep.Metodos;
+﻿using ValidadorDeCep.Metodos;
 
 Console.WriteLine("Insira o cep");
 string cep = Console.ReadLine();
 var enderecos = await Metodo.BuscarCep(cep);
-
-Console.WriteLine($"CEP: {enderecos.cep}");
-Console.WriteLine($"Logradouro: {enderecos.logradouro}");
-Console.WriteLine($"Bairro: {enderecos.bairro}");
-Console.WriteLine($"Cidade: {enderecos.cidade}");
-Console.WriteLine($"Estado: {enderecos.estado}");
+try
+{
+        Console.WriteLine("CEP: " + enderecos.cep);
+        if (enderecos.rua == null)
+        {
+            Console.WriteLine("Rua não encontrada");
+        }
+        else
+        {
+            Console.WriteLine("Rua: " + enderecos.rua);
+        }
+        Console.WriteLine("Bairro: " + enderecos.bairro);
+        Console.WriteLine("Região: " + enderecos.regiao);
+        Console.WriteLine("Estado: " + enderecos.estado);
+    
+}
+catch (Exception ex)
+{
+    Console.WriteLine("Erro: " + ex.Message);
+}

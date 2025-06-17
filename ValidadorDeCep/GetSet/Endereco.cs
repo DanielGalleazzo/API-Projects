@@ -9,7 +9,7 @@ namespace ValidadorDeCep.GetSet
         public string cep { get; set; }
 
         [JsonProperty("logradouro")]
-        public string logradouro { get; set; }
+        public string rua { get; set; }
 
         [JsonProperty("bairro")]
         public string bairro { get; set; }
@@ -19,5 +19,8 @@ namespace ValidadorDeCep.GetSet
 
         [JsonProperty("estado")]
         public string estado { get; set; }
+        [JsonProperty("regiao")] 
+        public string regiao { get; set; }    
+
     }
 }

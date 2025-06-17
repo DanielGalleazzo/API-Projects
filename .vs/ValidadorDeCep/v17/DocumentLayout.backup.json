@@ -22,8 +22,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\danie\\Desktop\\ValidadorDeCep\\ValidadorDeCep\\Program.cs",
+              "RelativeDocumentMoniker": "ValidadorDeCep\\Program.cs",
+              "ToolTip": "C:\\Users\\danie\\Desktop\\ValidadorDeCep\\ValidadorDeCep\\Program.cs*",
+              "RelativeToolTip": "ValidadorDeCep\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T21:14:03.043Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
@@ -32,7 +45,7 @@
               "RelativeDocumentMoniker": "ValidadorDeCep\\Metodos\\Metodo.cs",
               "ToolTip": "C:\\Users\\danie\\Desktop\\ValidadorDeCep\\ValidadorDeCep\\Metodos\\Metodo.cs",
               "RelativeToolTip": "ValidadorDeCep\\Metodos\\Metodo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-16T21:46:25.245Z",
               "EditorCaption": ""
@@ -45,22 +58,9 @@
               "RelativeDocumentMoniker": "ValidadorDeCep\\GetSet\\Endereco.cs",
               "ToolTip": "C:\\Users\\danie\\Desktop\\ValidadorDeCep\\ValidadorDeCep\\GetSet\\Endereco.cs",
               "RelativeToolTip": "ValidadorDeCep\\GetSet\\Endereco.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAcAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-16T21:18:20.034Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\danie\\Desktop\\ValidadorDeCep\\ValidadorDeCep\\Program.cs",
-              "RelativeDocumentMoniker": "ValidadorDeCep\\Program.cs",
-              "ToolTip": "C:\\Users\\danie\\Desktop\\ValidadorDeCep\\ValidadorDeCep\\Program.cs*",
-              "RelativeToolTip": "ValidadorDeCep\\Program.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-16T21:14:03.043Z",
               "EditorCaption": ""
             }
           ]

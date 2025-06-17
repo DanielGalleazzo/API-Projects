@@ -15,3 +15,4 @@ C:\Users\danie\Desktop\ValidadorDeCep\ValidadorDeCep\obj\Debug\net8.0\refint\Val
 C:\Users\danie\Desktop\ValidadorDeCep\ValidadorDeCep\obj\Debug\net8.0\ValidadorDeCep.pdb
 C:\Users\danie\Desktop\ValidadorDeCep\ValidadorDeCep\obj\Debug\net8.0\ValidadorDeCep.genruntimeconfig.cache
 C:\Users\danie\Desktop\ValidadorDeCep\ValidadorDeCep\obj\Debug\net8.0\ref\ValidadorDeCep.dll
+C:\Users\danie\Desktop\ValidadorDeCep\ValidadorDeCep\obj\Debug\net8.0\ValidadorDeCep.sourcelink.json

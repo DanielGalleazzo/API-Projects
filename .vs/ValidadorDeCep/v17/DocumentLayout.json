@@ -7,12 +7,12 @@
       "RelativeMoniker": "D:0:0:{B4F136A4-EDF4-4982-9473-9945C77889D1}|ValidadorDeCep\\ValidadorDeCep.csproj|solutionrelative:validadordecep\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B4F136A4-EDF4-4982-9473-9945C77889D1}|ValidadorDeCep\\ValidadorDeCep.csproj|c:\\users\\danie\\desktop\\validadordecep\\validadordecep\\getset\\endereco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B4F136A4-EDF4-4982-9473-9945C77889D1}|ValidadorDeCep\\ValidadorDeCep.csproj|solutionrelative:validadordecep\\getset\\endereco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{B4F136A4-EDF4-4982-9473-9945C77889D1}|ValidadorDeCep\\ValidadorDeCep.csproj|c:\\users\\danie\\desktop\\validadordecep\\validadordecep\\metodos\\metodo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B4F136A4-EDF4-4982-9473-9945C77889D1}|ValidadorDeCep\\ValidadorDeCep.csproj|solutionrelative:validadordecep\\metodos\\metodo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4F136A4-EDF4-4982-9473-9945C77889D1}|ValidadorDeCep\\ValidadorDeCep.csproj|c:\\users\\danie\\desktop\\validadordecep\\validadordecep\\getset\\endereco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4F136A4-EDF4-4982-9473-9945C77889D1}|ValidadorDeCep\\ValidadorDeCep.csproj|solutionrelative:validadordecep\\getset\\endereco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,34 +22,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Metodo.cs",
-              "DocumentMoniker": "C:\\Users\\danie\\Desktop\\ValidadorDeCep\\ValidadorDeCep\\Metodos\\Metodo.cs",
-              "RelativeDocumentMoniker": "ValidadorDeCep\\Metodos\\Metodo.cs",
-              "ToolTip": "C:\\Users\\danie\\Desktop\\ValidadorDeCep\\ValidadorDeCep\\Metodos\\Metodo.cs",
-              "RelativeToolTip": "ValidadorDeCep\\Metodos\\Metodo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-16T21:46:25.245Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Endereco.cs",
-              "DocumentMoniker": "C:\\Users\\danie\\Desktop\\ValidadorDeCep\\ValidadorDeCep\\GetSet\\Endereco.cs",
-              "RelativeDocumentMoniker": "ValidadorDeCep\\GetSet\\Endereco.cs",
-              "ToolTip": "C:\\Users\\danie\\Desktop\\ValidadorDeCep\\ValidadorDeCep\\GetSet\\Endereco.cs",
-              "RelativeToolTip": "ValidadorDeCep\\GetSet\\Endereco.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-16T21:18:20.034Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -58,9 +32,35 @@
               "RelativeDocumentMoniker": "ValidadorDeCep\\Program.cs",
               "ToolTip": "C:\\Users\\danie\\Desktop\\ValidadorDeCep\\ValidadorDeCep\\Program.cs",
               "RelativeToolTip": "ValidadorDeCep\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAsAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-16T21:14:03.043Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Metodo.cs",
+              "DocumentMoniker": "C:\\Users\\danie\\Desktop\\ValidadorDeCep\\ValidadorDeCep\\Metodos\\Metodo.cs",
+              "RelativeDocumentMoniker": "ValidadorDeCep\\Metodos\\Metodo.cs",
+              "ToolTip": "C:\\Users\\danie\\Desktop\\ValidadorDeCep\\ValidadorDeCep\\Metodos\\Metodo.cs",
+              "RelativeToolTip": "ValidadorDeCep\\Metodos\\Metodo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T21:46:25.245Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Endereco.cs",
+              "DocumentMoniker": "C:\\Users\\danie\\Desktop\\ValidadorDeCep\\ValidadorDeCep\\GetSet\\Endereco.cs",
+              "RelativeDocumentMoniker": "ValidadorDeCep\\GetSet\\Endereco.cs",
+              "ToolTip": "C:\\Users\\danie\\Desktop\\ValidadorDeCep\\ValidadorDeCep\\GetSet\\Endereco.cs",
+              "RelativeToolTip": "ValidadorDeCep\\GetSet\\Endereco.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T21:18:20.034Z",
               "EditorCaption": ""
             }
           ]
