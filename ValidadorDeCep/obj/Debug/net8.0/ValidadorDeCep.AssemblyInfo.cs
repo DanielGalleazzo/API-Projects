@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ValidadorDeCep")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6c516f97fc0854c23aafb45324d3892471b988a5")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7ee7f7daaa56f1a371f602729176a85cdb23ee6f")]
 [assembly: System.Reflection.AssemblyProductAttribute("ValidadorDeCep")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ValidadorDeCep")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

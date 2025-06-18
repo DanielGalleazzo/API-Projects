@@ -7,6 +7,10 @@
       "RelativeMoniker": "D:0:0:{B4F136A4-EDF4-4982-9473-9945C77889D1}|ValidadorDeCep\\ValidadorDeCep.csproj|solutionrelative:validadordecep\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{B4F136A4-EDF4-4982-9473-9945C77889D1}|ValidadorDeCep\\ValidadorDeCep.csproj|c:\\users\\danie\\desktop\\validadordecep\\validadordecep\\metodos\\salvaremtxt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4F136A4-EDF4-4982-9473-9945C77889D1}|ValidadorDeCep\\ValidadorDeCep.csproj|solutionrelative:validadordecep\\metodos\\salvaremtxt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{B4F136A4-EDF4-4982-9473-9945C77889D1}|ValidadorDeCep\\ValidadorDeCep.csproj|c:\\users\\danie\\desktop\\validadordecep\\validadordecep\\metodos\\metodo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B4F136A4-EDF4-4982-9473-9945C77889D1}|ValidadorDeCep\\ValidadorDeCep.csproj|solutionrelative:validadordecep\\metodos\\metodo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -22,8 +26,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SalvarEmTXT.cs",
+              "DocumentMoniker": "C:\\Users\\danie\\Desktop\\ValidadorDeCep\\ValidadorDeCep\\Metodos\\SalvarEmTXT.cs",
+              "RelativeDocumentMoniker": "ValidadorDeCep\\Metodos\\SalvarEmTXT.cs",
+              "ToolTip": "C:\\Users\\danie\\Desktop\\ValidadorDeCep\\ValidadorDeCep\\Metodos\\SalvarEmTXT.cs",
+              "RelativeToolTip": "ValidadorDeCep\\Metodos\\SalvarEmTXT.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T00:51:56.534Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -32,14 +49,14 @@
               "RelativeDocumentMoniker": "ValidadorDeCep\\Program.cs",
               "ToolTip": "C:\\Users\\danie\\Desktop\\ValidadorDeCep\\ValidadorDeCep\\Program.cs*",
               "RelativeToolTip": "ValidadorDeCep\\Program.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAEAAAAAAAAAA==",
+              "ViewState": "AgIAABoAAAAAAAAAAAAuwDkAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-16T21:14:03.043Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Metodo.cs",
               "DocumentMoniker": "C:\\Users\\danie\\Desktop\\ValidadorDeCep\\ValidadorDeCep\\Metodos\\Metodo.cs",
               "RelativeDocumentMoniker": "ValidadorDeCep\\Metodos\\Metodo.cs",
@@ -47,21 +64,19 @@
               "RelativeToolTip": "ValidadorDeCep\\Metodos\\Metodo.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-16T21:46:25.245Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-16T21:46:25.245Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Endereco.cs",
               "DocumentMoniker": "C:\\Users\\danie\\Desktop\\ValidadorDeCep\\ValidadorDeCep\\GetSet\\Endereco.cs",
               "RelativeDocumentMoniker": "ValidadorDeCep\\GetSet\\Endereco.cs",
               "ToolTip": "C:\\Users\\danie\\Desktop\\ValidadorDeCep\\ValidadorDeCep\\GetSet\\Endereco.cs",
               "RelativeToolTip": "ValidadorDeCep\\GetSet\\Endereco.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAZAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-16T21:18:20.034Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-16T21:18:20.034Z"
             }
           ]
         }

@@ -1,0 +1,5 @@
+Cep: 09560-101
+Rua não encontrada
+Bairro: Barcelona
+Região: Sudeste
+Estado: São Paulo
