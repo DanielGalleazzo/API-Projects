@@ -7,12 +7,16 @@
       "RelativeMoniker": "D:0:0:{EE0DCDE5-C963-462B-B243-03E9CD9C74B0}|ProjetoNASA\\ProjetoNASA.csproj|solutionrelative:projetonasa\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EE0DCDE5-C963-462B-B243-03E9CD9C74B0}|ProjetoNASA\\ProjetoNASA.csproj|c:\\users\\danie\\desktop\\projetos api\\projetonasa\\projetonasa\\imageoftheday.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EE0DCDE5-C963-462B-B243-03E9CD9C74B0}|ProjetoNASA\\ProjetoNASA.csproj|solutionrelative:projetonasa\\imageoftheday.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EE0DCDE5-C963-462B-B243-03E9CD9C74B0}|ProjetoNASA\\ProjetoNASA.csproj|c:\\users\\danie\\desktop\\projetos api\\projetonasa\\projetonasa\\metodos\\imageoftheday.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE0DCDE5-C963-462B-B243-03E9CD9C74B0}|ProjetoNASA\\ProjetoNASA.csproj|solutionrelative:projetonasa\\metodos\\imageoftheday.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EE0DCDE5-C963-462B-B243-03E9CD9C74B0}|ProjetoNASA\\ProjetoNASA.csproj|c:\\users\\danie\\desktop\\projetos api\\projetonasa\\projetonasa\\getsetphoto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EE0DCDE5-C963-462B-B243-03E9CD9C74B0}|ProjetoNASA\\ProjetoNASA.csproj|solutionrelative:projetonasa\\getsetphoto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EE0DCDE5-C963-462B-B243-03E9CD9C74B0}|ProjetoNASA\\ProjetoNASA.csproj|c:\\users\\danie\\desktop\\projetos api\\projetonasa\\projetonasa\\metodos\\asteroide.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE0DCDE5-C963-462B-B243-03E9CD9C74B0}|ProjetoNASA\\ProjetoNASA.csproj|solutionrelative:projetonasa\\metodos\\asteroide.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE0DCDE5-C963-462B-B243-03E9CD9C74B0}|ProjetoNASA\\ProjetoNASA.csproj|c:\\users\\danie\\desktop\\projetos api\\projetonasa\\projetonasa\\getset\\getsetasteroide.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE0DCDE5-C963-462B-B243-03E9CD9C74B0}|ProjetoNASA\\ProjetoNASA.csproj|solutionrelative:projetonasa\\getset\\getsetasteroide.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,32 +26,45 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "ImageOfTheDay.cs",
-              "DocumentMoniker": "C:\\Users\\danie\\Desktop\\Projetos API\\ProjetoNASA\\ProjetoNASA\\ImageOfTheDay.cs",
-              "RelativeDocumentMoniker": "ProjetoNASA\\ImageOfTheDay.cs",
-              "ToolTip": "C:\\Users\\danie\\Desktop\\Projetos API\\ProjetoNASA\\ProjetoNASA\\ImageOfTheDay.cs*",
-              "RelativeToolTip": "ProjetoNASA\\ImageOfTheDay.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\danie\\Desktop\\Projetos API\\ProjetoNASA\\ProjetoNASA\\Metodos\\ImageOfTheDay.cs",
+              "RelativeDocumentMoniker": "ProjetoNASA\\Metodos\\ImageOfTheDay.cs",
+              "ToolTip": "C:\\Users\\danie\\Desktop\\Projetos API\\ProjetoNASA\\ProjetoNASA\\Metodos\\ImageOfTheDay.cs*",
+              "RelativeToolTip": "ProjetoNASA\\Metodos\\ImageOfTheDay.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABDAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-18T23:04:32.915Z",
+              "WhenOpened": "2025-06-19T18:59:07.827Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "GetSetPhoto.cs",
-              "DocumentMoniker": "C:\\Users\\danie\\Desktop\\Projetos API\\ProjetoNASA\\ProjetoNASA\\GetSetPhoto.cs",
-              "RelativeDocumentMoniker": "ProjetoNASA\\GetSetPhoto.cs",
-              "ToolTip": "C:\\Users\\danie\\Desktop\\Projetos API\\ProjetoNASA\\ProjetoNASA\\GetSetPhoto.cs*",
-              "RelativeToolTip": "ProjetoNASA\\GetSetPhoto.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Title": "Asteroide.cs",
+              "DocumentMoniker": "C:\\Users\\danie\\Desktop\\Projetos API\\ProjetoNASA\\ProjetoNASA\\Metodos\\Asteroide.cs",
+              "RelativeDocumentMoniker": "ProjetoNASA\\Metodos\\Asteroide.cs",
+              "ToolTip": "C:\\Users\\danie\\Desktop\\Projetos API\\ProjetoNASA\\ProjetoNASA\\Metodos\\Asteroide.cs",
+              "RelativeToolTip": "ProjetoNASA\\Metodos\\Asteroide.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABDAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-18T23:03:58.583Z",
+              "WhenOpened": "2025-06-19T18:59:00.424Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GetSetASTEROIDE.cs",
+              "DocumentMoniker": "C:\\Users\\danie\\Desktop\\Projetos API\\ProjetoNASA\\ProjetoNASA\\GetSet\\GetSetASTEROIDE.cs",
+              "RelativeDocumentMoniker": "ProjetoNASA\\GetSet\\GetSetASTEROIDE.cs",
+              "ToolTip": "C:\\Users\\danie\\Desktop\\Projetos API\\ProjetoNASA\\ProjetoNASA\\GetSet\\GetSetASTEROIDE.cs",
+              "RelativeToolTip": "ProjetoNASA\\GetSet\\GetSetASTEROIDE.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T18:54:23.16Z",
               "EditorCaption": ""
             },
             {
@@ -56,9 +73,9 @@
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\danie\\Desktop\\Projetos API\\ProjetoNASA\\ProjetoNASA\\Program.cs",
               "RelativeDocumentMoniker": "ProjetoNASA\\Program.cs",
-              "ToolTip": "C:\\Users\\danie\\Desktop\\Projetos API\\ProjetoNASA\\ProjetoNASA\\Program.cs*",
-              "RelativeToolTip": "ProjetoNASA\\Program.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\danie\\Desktop\\Projetos API\\ProjetoNASA\\ProjetoNASA\\Program.cs",
+              "RelativeToolTip": "ProjetoNASA\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-18T23:03:16.293Z",
               "EditorCaption": ""
