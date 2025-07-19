@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LastFM")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6123a103eebd568c642793c7427ae6158b3e8ee4")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+74b299800ed6cedb1e02246c0dab429783df10a3")]
 [assembly: System.Reflection.AssemblyProductAttribute("LastFM")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LastFM")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
