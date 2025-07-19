@@ -1,0 +1,15 @@
+C:\Users\danie\Desktop\Projetos API\LastFM\LastFM\obj\Debug\net8.0\LastFM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\Desktop\Projetos API\LastFM\LastFM\obj\Debug\net8.0\LastFM.AssemblyInfoInputs.cache
+C:\Users\danie\Desktop\Projetos API\LastFM\LastFM\obj\Debug\net8.0\LastFM.AssemblyInfo.cs
+C:\Users\danie\Desktop\Projetos API\LastFM\LastFM\obj\Debug\net8.0\LastFM.csproj.CoreCompileInputs.cache
+C:\Users\danie\Desktop\Projetos API\LastFM\LastFM\obj\Debug\net8.0\LastFM.sourcelink.json
+C:\Users\danie\Desktop\Projetos API\LastFM\LastFM\bin\Debug\net8.0\LastFM.exe
+C:\Users\danie\Desktop\Projetos API\LastFM\LastFM\bin\Debug\net8.0\LastFM.deps.json
+C:\Users\danie\Desktop\Projetos API\LastFM\LastFM\bin\Debug\net8.0\LastFM.runtimeconfig.json
+C:\Users\danie\Desktop\Projetos API\LastFM\LastFM\bin\Debug\net8.0\LastFM.dll
+C:\Users\danie\Desktop\Projetos API\LastFM\LastFM\bin\Debug\net8.0\LastFM.pdb
+C:\Users\danie\Desktop\Projetos API\LastFM\LastFM\obj\Debug\net8.0\LastFM.dll
+C:\Users\danie\Desktop\Projetos API\LastFM\LastFM\obj\Debug\net8.0\refint\LastFM.dll
+C:\Users\danie\Desktop\Projetos API\LastFM\LastFM\obj\Debug\net8.0\LastFM.pdb
+C:\Users\danie\Desktop\Projetos API\LastFM\LastFM\obj\Debug\net8.0\LastFM.genruntimeconfig.cache
+C:\Users\danie\Desktop\Projetos API\LastFM\LastFM\obj\Debug\net8.0\ref\LastFM.dll

@@ -1,0 +1,15 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Text.Json.Serialization;
+using System.Threading.Tasks;
+
+namespace LastFM.GetSet
+{
+    public class MusicasRecentes
+    {
+        [JsonPropertyName("track")]
+        public List<Musica> Tracks { get; set; }
+    }
+}

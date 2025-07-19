@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\danie\\Desktop\\Projetos API\\LastFM\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{66F8065F-7E94-4D3F-ACE0-D49D0E34A7CB}|LastFM\\LastFM.csproj|c:\\users\\danie\\desktop\\projetos api\\lastfm\\lastfm\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66F8065F-7E94-4D3F-ACE0-D49D0E34A7CB}|LastFM\\LastFM.csproj|solutionrelative:lastfm\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66F8065F-7E94-4D3F-ACE0-D49D0E34A7CB}|LastFM\\LastFM.csproj|c:\\users\\danie\\desktop\\projetos api\\lastfm\\lastfm\\getset\\artista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66F8065F-7E94-4D3F-ACE0-D49D0E34A7CB}|LastFM\\LastFM.csproj|solutionrelative:lastfm\\getset\\artista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66F8065F-7E94-4D3F-ACE0-D49D0E34A7CB}|LastFM\\LastFM.csproj|c:\\users\\danie\\desktop\\projetos api\\lastfm\\lastfm\\getset\\musica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66F8065F-7E94-4D3F-ACE0-D49D0E34A7CB}|LastFM\\LastFM.csproj|solutionrelative:lastfm\\getset\\musica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66F8065F-7E94-4D3F-ACE0-D49D0E34A7CB}|LastFM\\LastFM.csproj|c:\\users\\danie\\desktop\\projetos api\\lastfm\\lastfm\\getset\\data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66F8065F-7E94-4D3F-ACE0-D49D0E34A7CB}|LastFM\\LastFM.csproj|solutionrelative:lastfm\\getset\\data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66F8065F-7E94-4D3F-ACE0-D49D0E34A7CB}|LastFM\\LastFM.csproj|c:\\users\\danie\\desktop\\projetos api\\lastfm\\lastfm\\getset\\musicasrecentes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66F8065F-7E94-4D3F-ACE0-D49D0E34A7CB}|LastFM\\LastFM.csproj|solutionrelative:lastfm\\getset\\musicasrecentes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66F8065F-7E94-4D3F-ACE0-D49D0E34A7CB}|LastFM\\LastFM.csproj|c:\\users\\danie\\desktop\\projetos api\\lastfm\\lastfm\\getset\\root.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66F8065F-7E94-4D3F-ACE0-D49D0E34A7CB}|LastFM\\LastFM.csproj|solutionrelative:lastfm\\getset\\root.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Data.cs",
+              "DocumentMoniker": "C:\\Users\\danie\\Desktop\\Projetos API\\LastFM\\LastFM\\GetSet\\Data.cs",
+              "RelativeDocumentMoniker": "LastFM\\GetSet\\Data.cs",
+              "ToolTip": "C:\\Users\\danie\\Desktop\\Projetos API\\LastFM\\LastFM\\GetSet\\Data.cs",
+              "RelativeToolTip": "LastFM\\GetSet\\Data.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T02:08:19.217Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Artista.cs",
+              "DocumentMoniker": "C:\\Users\\danie\\Desktop\\Projetos API\\LastFM\\LastFM\\GetSet\\Artista.cs",
+              "RelativeDocumentMoniker": "LastFM\\GetSet\\Artista.cs",
+              "ToolTip": "C:\\Users\\danie\\Desktop\\Projetos API\\LastFM\\LastFM\\GetSet\\Artista.cs",
+              "RelativeToolTip": "LastFM\\GetSet\\Artista.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T02:08:12.715Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Root.cs",
+              "DocumentMoniker": "C:\\Users\\danie\\Desktop\\Projetos API\\LastFM\\LastFM\\GetSet\\Root.cs",
+              "RelativeDocumentMoniker": "LastFM\\GetSet\\Root.cs",
+              "ToolTip": "C:\\Users\\danie\\Desktop\\Projetos API\\LastFM\\LastFM\\GetSet\\Root.cs",
+              "RelativeToolTip": "LastFM\\GetSet\\Root.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T02:07:24.414Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MusicasRecentes.cs",
+              "DocumentMoniker": "C:\\Users\\danie\\Desktop\\Projetos API\\LastFM\\LastFM\\GetSet\\MusicasRecentes.cs",
+              "RelativeDocumentMoniker": "LastFM\\GetSet\\MusicasRecentes.cs",
+              "ToolTip": "C:\\Users\\danie\\Desktop\\Projetos API\\LastFM\\LastFM\\GetSet\\MusicasRecentes.cs",
+              "RelativeToolTip": "LastFM\\GetSet\\MusicasRecentes.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T02:07:03.705Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Musica.cs",
+              "DocumentMoniker": "C:\\Users\\danie\\Desktop\\Projetos API\\LastFM\\LastFM\\GetSet\\Musica.cs",
+              "RelativeDocumentMoniker": "LastFM\\GetSet\\Musica.cs",
+              "ToolTip": "C:\\Users\\danie\\Desktop\\Projetos API\\LastFM\\LastFM\\GetSet\\Musica.cs",
+              "RelativeToolTip": "LastFM\\GetSet\\Musica.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T01:50:50.688Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\danie\\Desktop\\Projetos API\\LastFM\\LastFM\\Program.cs",
+              "RelativeDocumentMoniker": "LastFM\\Program.cs",
+              "ToolTip": "C:\\Users\\danie\\Desktop\\Projetos API\\LastFM\\LastFM\\Program.cs*",
+              "RelativeToolTip": "LastFM\\Program.cs*",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAsAAACCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T00:00:29.424Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
