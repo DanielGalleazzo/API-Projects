@@ -1,0 +1,15 @@
+C:\Users\danie\Desktop\Projetos API\FindMyRecipe\FindMyRecipe\FindMyRecipe\bin\Debug\net8.0\FindMyRecipe.exe
+C:\Users\danie\Desktop\Projetos API\FindMyRecipe\FindMyRecipe\FindMyRecipe\bin\Debug\net8.0\FindMyRecipe.deps.json
+C:\Users\danie\Desktop\Projetos API\FindMyRecipe\FindMyRecipe\FindMyRecipe\bin\Debug\net8.0\FindMyRecipe.runtimeconfig.json
+C:\Users\danie\Desktop\Projetos API\FindMyRecipe\FindMyRecipe\FindMyRecipe\bin\Debug\net8.0\FindMyRecipe.dll
+C:\Users\danie\Desktop\Projetos API\FindMyRecipe\FindMyRecipe\FindMyRecipe\bin\Debug\net8.0\FindMyRecipe.pdb
+C:\Users\danie\Desktop\Projetos API\FindMyRecipe\FindMyRecipe\FindMyRecipe\obj\Debug\net8.0\FindMyRecipe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\Desktop\Projetos API\FindMyRecipe\FindMyRecipe\FindMyRecipe\obj\Debug\net8.0\FindMyRecipe.AssemblyInfoInputs.cache
+C:\Users\danie\Desktop\Projetos API\FindMyRecipe\FindMyRecipe\FindMyRecipe\obj\Debug\net8.0\FindMyRecipe.AssemblyInfo.cs
+C:\Users\danie\Desktop\Projetos API\FindMyRecipe\FindMyRecipe\FindMyRecipe\obj\Debug\net8.0\FindMyRecipe.csproj.CoreCompileInputs.cache
+C:\Users\danie\Desktop\Projetos API\FindMyRecipe\FindMyRecipe\FindMyRecipe\obj\Debug\net8.0\FindMyRecipe.sourcelink.json
+C:\Users\danie\Desktop\Projetos API\FindMyRecipe\FindMyRecipe\FindMyRecipe\obj\Debug\net8.0\FindMyRecipe.dll
+C:\Users\danie\Desktop\Projetos API\FindMyRecipe\FindMyRecipe\FindMyRecipe\obj\Debug\net8.0\refint\FindMyRecipe.dll
+C:\Users\danie\Desktop\Projetos API\FindMyRecipe\FindMyRecipe\FindMyRecipe\obj\Debug\net8.0\FindMyRecipe.pdb
+C:\Users\danie\Desktop\Projetos API\FindMyRecipe\FindMyRecipe\FindMyRecipe\obj\Debug\net8.0\FindMyRecipe.genruntimeconfig.cache
+C:\Users\danie\Desktop\Projetos API\FindMyRecipe\FindMyRecipe\FindMyRecipe\obj\Debug\net8.0\ref\FindMyRecipe.dll
