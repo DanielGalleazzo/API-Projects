@@ -11,9 +11,12 @@ namespace FindMyRecipe.GetSet
     {
         [JsonPropertyName("servings")]
         public string Servings { get; set; }
+
         [JsonPropertyName("readyInMinutes")]
         public int TimeToBeDone { get; set; }
+
         [JsonPropertyName("vegan")]
         public bool Vegan { get; set; }
     }
+  
 }
