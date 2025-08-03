@@ -1,4 +1,5 @@
-﻿using System;
+﻿/*
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Net.Http.Json;
@@ -17,7 +18,8 @@ namespace FindMyRecipe.Metodos
             using var cliente = new HttpClient();
             cliente.DefaultRequestHeaders.UserAgent.ParseAdd("Mozilla/5.0 (compatible; FindMyRecipe/1.0)");
             var answer = await cliente.GetFromJsonAsync<SBS>(url);
-            return answer?.Resultados ?? new List<StepbyStep>(); 
+            return answer?.Resultados ?? new List<StepbyStep>();
         }
     }
 }
+*/
