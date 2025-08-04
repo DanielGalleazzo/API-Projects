@@ -14,26 +14,29 @@ foreach (var receitaList in receitaLista)
     Console.WriteLine("Nome da receita: " + receitaList.Title);
     Console.WriteLine("");
 }
-Console.WriteLine("Do you wanna see the details of a specify recipe?");
-string answerStep =  Console.ReadLine();
+Console.WriteLine("Here is the details of a specify recipe");
 
-if (answerStep == "yes")
-{
-    Console.WriteLine("What's the id of the recipe ?");
-    int idAnswer = int.Parse(Console.ReadLine()); // 57810 Choucroute Garni testar com esse exemplo
-    Console.WriteLine($"Ok, here is the details of the recipe: {idAnswer}");
+Console.WriteLine("What's the id of the recipe ?");
+int idAnswer = int.Parse(Console.ReadLine()); // 57810 Choucroute Garni testar com esse exemplo
+Console.WriteLine($"Ok, here is the details of the recipe: {idAnswer}");
 
     var details = await Detalhes.DetalhesReceita(idAnswer);
 
     foreach (var recipe in details)
     {
         Console.WriteLine($"Serve quantas pessoas ?");
-        Console.WriteLine(recipe.Servings);
+        Console.WriteLine(recipe.Servings + " pessoas");
         Console.WriteLine("Quanto tempo leva para ficar pronto ?");
-        Console.WriteLine(recipe.TimeToBeDone);
+        Console.WriteLine(recipe.TimeToBeDone + " minutos");
         Console.WriteLine("É vegano ?");
-        Console.WriteLine(recipe.Vegan);
+        if(recipe.Vegan == false)
+        {
+        Console.WriteLine("Não é vegano");
+        }
+        else
+        {
+        Console.WriteLine("É vegano");
+        }
         
-    }
-
 }
+

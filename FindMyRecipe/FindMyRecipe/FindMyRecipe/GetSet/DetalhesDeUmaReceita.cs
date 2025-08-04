@@ -10,7 +10,7 @@ namespace FindMyRecipe.GetSet
     public class DetalhesDeUmaReceita
     {
         [JsonPropertyName("servings")]
-        public string Servings { get; set; }
+        public int Servings { get; set; }
 
         [JsonPropertyName("readyInMinutes")]
         public int TimeToBeDone { get; set; }

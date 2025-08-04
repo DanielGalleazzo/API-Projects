@@ -3,32 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\danie\\Desktop\\Projetos API\\FindMyRecipe\\FindMyRecipe\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A581EECE-76BE-4D56-94F0-DB903E9873EC}|FindMyRecipe\\FindMyRecipe.csproj|c:\\users\\danie\\desktop\\projetos api\\findmyrecipe\\findmyrecipe\\findmyrecipe\\getset\\quantoeuprecisoparater.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A581EECE-76BE-4D56-94F0-DB903E9873EC}|FindMyRecipe\\FindMyRecipe.csproj|solutionrelative:findmyrecipe\\getset\\quantoeuprecisoparater.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A581EECE-76BE-4D56-94F0-DB903E9873EC}|FindMyRecipe\\FindMyRecipe.csproj|c:\\users\\danie\\desktop\\projetos api\\findmyrecipe\\findmyrecipe\\findmyrecipe\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A581EECE-76BE-4D56-94F0-DB903E9873EC}|FindMyRecipe\\FindMyRecipe.csproj|solutionrelative:findmyrecipe\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A581EECE-76BE-4D56-94F0-DB903E9873EC}|FindMyRecipe\\FindMyRecipe.csproj|c:\\users\\danie\\desktop\\projetos api\\findmyrecipe\\findmyrecipe\\findmyrecipe\\getset\\buscaporingredientegs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A581EECE-76BE-4D56-94F0-DB903E9873EC}|FindMyRecipe\\FindMyRecipe.csproj|solutionrelative:findmyrecipe\\getset\\buscaporingredientegs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A581EECE-76BE-4D56-94F0-DB903E9873EC}|FindMyRecipe\\FindMyRecipe.csproj|c:\\users\\danie\\desktop\\projetos api\\findmyrecipe\\findmyrecipe\\findmyrecipe\\metodos\\buscaporingrediente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A581EECE-76BE-4D56-94F0-DB903E9873EC}|FindMyRecipe\\FindMyRecipe.csproj|solutionrelative:findmyrecipe\\metodos\\buscaporingrediente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A581EECE-76BE-4D56-94F0-DB903E9873EC}|FindMyRecipe\\FindMyRecipe.csproj|c:\\users\\danie\\desktop\\projetos api\\findmyrecipe\\findmyrecipe\\findmyrecipe\\metodos\\stepbystep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A581EECE-76BE-4D56-94F0-DB903E9873EC}|FindMyRecipe\\FindMyRecipe.csproj|solutionrelative:findmyrecipe\\metodos\\stepbystep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A581EECE-76BE-4D56-94F0-DB903E9873EC}|FindMyRecipe\\FindMyRecipe.csproj|c:\\users\\danie\\desktop\\projetos api\\findmyrecipe\\findmyrecipe\\findmyrecipe\\getset\\stepbystep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A581EECE-76BE-4D56-94F0-DB903E9873EC}|FindMyRecipe\\FindMyRecipe.csproj|solutionrelative:findmyrecipe\\getset\\stepbystep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A581EECE-76BE-4D56-94F0-DB903E9873EC}|FindMyRecipe\\FindMyRecipe.csproj|c:\\users\\danie\\desktop\\projetos api\\findmyrecipe\\findmyrecipe\\findmyrecipe\\getset\\detalhesdeumareceita.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A581EECE-76BE-4D56-94F0-DB903E9873EC}|FindMyRecipe\\FindMyRecipe.csproj|solutionrelative:findmyrecipe\\getset\\detalhesdeumareceita.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A581EECE-76BE-4D56-94F0-DB903E9873EC}|FindMyRecipe\\FindMyRecipe.csproj|c:\\users\\danie\\desktop\\projetos api\\findmyrecipe\\findmyrecipe\\findmyrecipe\\metodos\\detalhes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A581EECE-76BE-4D56-94F0-DB903E9873EC}|FindMyRecipe\\FindMyRecipe.csproj|solutionrelative:findmyrecipe\\metodos\\detalhes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A581EECE-76BE-4D56-94F0-DB903E9873EC}|FindMyRecipe\\FindMyRecipe.csproj|c:\\users\\danie\\desktop\\projetos api\\findmyrecipe\\findmyrecipe\\findmyrecipe\\getset\\detalhesdeumareceita.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A581EECE-76BE-4D56-94F0-DB903E9873EC}|FindMyRecipe\\FindMyRecipe.csproj|solutionrelative:findmyrecipe\\getset\\detalhesdeumareceita.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A581EECE-76BE-4D56-94F0-DB903E9873EC}|FindMyRecipe\\FindMyRecipe.csproj|c:\\users\\danie\\desktop\\projetos api\\findmyrecipe\\findmyrecipe\\findmyrecipe\\metodos\\buscaporingrediente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A581EECE-76BE-4D56-94F0-DB903E9873EC}|FindMyRecipe\\FindMyRecipe.csproj|solutionrelative:findmyrecipe\\metodos\\buscaporingrediente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A581EECE-76BE-4D56-94F0-DB903E9873EC}|FindMyRecipe\\FindMyRecipe.csproj|c:\\users\\danie\\desktop\\projetos api\\findmyrecipe\\findmyrecipe\\findmyrecipe\\getset\\buscaporingredientegs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A581EECE-76BE-4D56-94F0-DB903E9873EC}|FindMyRecipe\\FindMyRecipe.csproj|solutionrelative:findmyrecipe\\getset\\buscaporingredientegs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,63 +34,63 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "StepbyStep.cs",
-              "DocumentMoniker": "C:\\Users\\danie\\Desktop\\Projetos API\\FindMyRecipe\\FindMyRecipe\\FindMyRecipe\\Metodos\\StepbyStep.cs",
-              "RelativeDocumentMoniker": "FindMyRecipe\\Metodos\\StepbyStep.cs",
-              "ToolTip": "C:\\Users\\danie\\Desktop\\Projetos API\\FindMyRecipe\\FindMyRecipe\\FindMyRecipe\\Metodos\\StepbyStep.cs",
-              "RelativeToolTip": "FindMyRecipe\\Metodos\\StepbyStep.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "QuantoEuPrecisoParaTer.cs",
+              "DocumentMoniker": "C:\\Users\\danie\\Desktop\\Projetos API\\FindMyRecipe\\FindMyRecipe\\FindMyRecipe\\GetSet\\QuantoEuPrecisoParaTer.cs",
+              "RelativeDocumentMoniker": "FindMyRecipe\\GetSet\\QuantoEuPrecisoParaTer.cs",
+              "ToolTip": "C:\\Users\\danie\\Desktop\\Projetos API\\FindMyRecipe\\FindMyRecipe\\FindMyRecipe\\GetSet\\QuantoEuPrecisoParaTer.cs",
+              "RelativeToolTip": "FindMyRecipe\\GetSet\\QuantoEuPrecisoParaTer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-03T22:53:53.717Z",
+              "WhenOpened": "2025-08-04T18:12:48.342Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "StepByStep.cs",
-              "DocumentMoniker": "C:\\Users\\danie\\Desktop\\Projetos API\\FindMyRecipe\\FindMyRecipe\\FindMyRecipe\\GetSet\\StepByStep.cs",
-              "RelativeDocumentMoniker": "FindMyRecipe\\GetSet\\StepByStep.cs",
-              "ToolTip": "C:\\Users\\danie\\Desktop\\Projetos API\\FindMyRecipe\\FindMyRecipe\\FindMyRecipe\\GetSet\\StepByStep.cs",
-              "RelativeToolTip": "FindMyRecipe\\GetSet\\StepByStep.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\danie\\Desktop\\Projetos API\\FindMyRecipe\\FindMyRecipe\\FindMyRecipe\\Program.cs",
+              "RelativeDocumentMoniker": "FindMyRecipe\\Program.cs",
+              "ToolTip": "C:\\Users\\danie\\Desktop\\Projetos API\\FindMyRecipe\\FindMyRecipe\\FindMyRecipe\\Program.cs",
+              "RelativeToolTip": "FindMyRecipe\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-03T22:53:13.567Z",
+              "WhenOpened": "2025-08-01T21:49:58.33Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 2,
               "Title": "DetalhesDeUmaReceita.cs",
               "DocumentMoniker": "C:\\Users\\danie\\Desktop\\Projetos API\\FindMyRecipe\\FindMyRecipe\\FindMyRecipe\\GetSet\\DetalhesDeUmaReceita.cs",
               "RelativeDocumentMoniker": "FindMyRecipe\\GetSet\\DetalhesDeUmaReceita.cs",
               "ToolTip": "C:\\Users\\danie\\Desktop\\Projetos API\\FindMyRecipe\\FindMyRecipe\\FindMyRecipe\\GetSet\\DetalhesDeUmaReceita.cs",
               "RelativeToolTip": "FindMyRecipe\\GetSet\\DetalhesDeUmaReceita.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAACAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-03T22:09:12.647Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
               "Title": "Detalhes.cs",
               "DocumentMoniker": "C:\\Users\\danie\\Desktop\\Projetos API\\FindMyRecipe\\FindMyRecipe\\FindMyRecipe\\Metodos\\Detalhes.cs",
               "RelativeDocumentMoniker": "FindMyRecipe\\Metodos\\Detalhes.cs",
               "ToolTip": "C:\\Users\\danie\\Desktop\\Projetos API\\FindMyRecipe\\FindMyRecipe\\FindMyRecipe\\Metodos\\Detalhes.cs",
               "RelativeToolTip": "FindMyRecipe\\Metodos\\Detalhes.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA4AAAAaAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA8AAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-03T22:07:09.654Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "BuscaPorIngrediente.cs",
               "DocumentMoniker": "C:\\Users\\danie\\Desktop\\Projetos API\\FindMyRecipe\\FindMyRecipe\\FindMyRecipe\\Metodos\\BuscaPorIngrediente.cs",
               "RelativeDocumentMoniker": "FindMyRecipe\\Metodos\\BuscaPorIngrediente.cs",
@@ -107,7 +103,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "BuscaPorIngredienteGS.cs",
               "DocumentMoniker": "C:\\Users\\danie\\Desktop\\Projetos API\\FindMyRecipe\\FindMyRecipe\\FindMyRecipe\\GetSet\\BuscaPorIngredienteGS.cs",
               "RelativeDocumentMoniker": "FindMyRecipe\\GetSet\\BuscaPorIngredienteGS.cs",
@@ -116,19 +112,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-01T22:02:36.478Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\danie\\Desktop\\Projetos API\\FindMyRecipe\\FindMyRecipe\\FindMyRecipe\\Program.cs",
-              "RelativeDocumentMoniker": "FindMyRecipe\\Program.cs",
-              "ToolTip": "C:\\Users\\danie\\Desktop\\Projetos API\\FindMyRecipe\\FindMyRecipe\\FindMyRecipe\\Program.cs",
-              "RelativeToolTip": "FindMyRecipe\\Program.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAAACIAAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-01T21:49:58.33Z",
               "EditorCaption": ""
             }
           ]
