@@ -1,5 +1,5 @@
 ﻿using FindMyRecipe.Metodos;
-
+/*
 Console.WriteLine("1 - Ver receitas com um ingrediente base:");
 Console.WriteLine("2 - Ver detalhes através do id de uma receita");
 Console.WriteLine("3 - Informações nutricionais sobre um prato");
@@ -69,6 +69,38 @@ switch (switchcase)
         }
         break;
 }
+*/
 
+
+Console.WriteLine("Qual o alimento base ? ex: meal, carrot, fish, etc");
+string alimentoBase = Console.ReadLine();
+Console.WriteLine("Quantos resultados você quer receber ?");
+int resultados = int.Parse(Console.ReadLine());
+Console.WriteLine("Qual a quantidade mínima de proteína que você deseja ?");
+int minProteina = int.Parse(Console.ReadLine());
+
+
+var nutrienteMinimo = await NutrienteMinimo.NutrienteMinMax(alimentoBase, resultados, minProteina);
+
+foreach(var Nutrientes in nutrienteMinimo)
+{
+    try
+    {
+        Console.WriteLine("Id do prato ou produto");
+        Console.WriteLine(Nutrientes.Id);
+        Console.WriteLine("Titulo do prato ou produto");
+        Console.WriteLine(Nutrientes.Title);
+    }
+    catch (Exception ex)
+    {
+        if (Nutrientes.Id == 0)
+        {
+            Console.WriteLine("Nenhum produto encontrado com os critérios especificados.");
+            continue;
+        }
+        Console.WriteLine("Ocorreu um erro ao processar os dados: " + ex.Message);
+    }
+
+}
 
 

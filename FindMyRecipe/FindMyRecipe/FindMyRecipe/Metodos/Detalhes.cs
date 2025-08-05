@@ -10,15 +10,15 @@ namespace FindMyRecipe.Metodos
 {
     public class Detalhes
     {
-        public static async Task<List<DetalhesDeUmaReceita>> DetalhesReceita(int id)
+        public static async Task<List<DetalhesDeUmaReceitaGS>> DetalhesReceita(int id)
         {
             
                 string api = "";
                 var link = $"https://api.spoonacular.com/recipes/{id}/information?includeNutrition=true&apiKey={api}";
                 using var cliente = new HttpClient();
                 cliente.DefaultRequestHeaders.UserAgent.ParseAdd("Mozilla/5.0 (compatible; FindMyRecipe/1.0)");
-                var answer = await cliente.GetFromJsonAsync<DetalhesDeUmaReceita>(link);
-                return answer != null ? new List<DetalhesDeUmaReceita> { answer } : new List<DetalhesDeUmaReceita>();
+                var answer = await cliente.GetFromJsonAsync<DetalhesDeUmaReceitaGS>(link);
+                return answer != null ? new List<DetalhesDeUmaReceitaGS> { answer } : new List<DetalhesDeUmaReceitaGS>();
             
             
         }

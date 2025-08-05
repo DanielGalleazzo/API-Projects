@@ -7,7 +7,7 @@ using System.Text.Json.Serialization;
 
 namespace FindMyRecipe.GetSet
 {
-    public class DetalhesDeUmaReceita
+    public class DetalhesDeUmaReceitaGS
     {
         [JsonPropertyName("servings")]
         public int Servings { get; set; }
