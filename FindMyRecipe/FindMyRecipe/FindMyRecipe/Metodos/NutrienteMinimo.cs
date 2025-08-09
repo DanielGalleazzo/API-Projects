@@ -10,10 +10,10 @@ namespace FindMyRecipe.Metodos
 {
     public class NutrienteMinimo
     {
-        public static async Task <List<NutrienteMinimoGS>> NutrienteMinMax(string alimento,int results, int minimo)
+        public static async Task <List<NutrienteMinimoGS>> NutrienteMinMax(string alimento,int results, int minimo, string MM) // MM = Minimo ou máximo
         {
             string api = "";
-            var link = $"https://api.spoonacular.com/food/products/search?query={alimento}&number={results}&minProtein={minimo}&apiKey={api}";
+            var link = $"https://api.spoonacular.com/food/products/search?query={alimento}&number={results}&{MM}Protein={minimo}&apiKey={api}";
             using var cliente = new HttpClient();
             var answer = await cliente.GetFromJsonAsync<NutrienteMinimoGS>(link);
             return answer != null ? new List<NutrienteMinimoGS> { answer } : new List<NutrienteMinimoGS>();
