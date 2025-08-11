@@ -1,10 +1,13 @@
 ﻿using FindMyRecipe.Metodos;
-
+/*
 Console.WriteLine("1 - Ver receitas com um ingrediente base:");
 Console.WriteLine("2 - Ver detalhes através do id de uma receita");
 Console.WriteLine("3 - Informações nutricionais sobre um prato");
 int switchcase = int.Parse(Console.ReadLine());
+*/
 
+
+/*
 switch (switchcase)
 {
     case 1:
@@ -104,7 +107,16 @@ switch (switchcase)
         }
         break;
 }
+*/
+Console.WriteLine("Qual a sua pergunta ?"); // o input deve ser feito em inglês
+string pergunta = Console.ReadLine();
 
+var resposta = await Question_Answer.QuestionAnswer(pergunta);
+
+foreach (var item in resposta)
+{
+    Console.WriteLine("Resposta: " + item.Answer);
+}
 
 
 
