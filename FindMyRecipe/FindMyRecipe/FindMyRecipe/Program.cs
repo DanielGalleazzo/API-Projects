@@ -108,6 +108,7 @@ switch (switchcase)
         break;
 }
 */
+/*
 Console.WriteLine("Qual a sua pergunta ?"); // o input deve ser feito em inglês
 string pergunta = Console.ReadLine();
 
@@ -117,7 +118,18 @@ foreach (var item in resposta)
 {
     Console.WriteLine("Resposta: " + item.Answer);
 }
+*/
 
+Console.WriteLine("Qual o id do ingrediente que você quer saber ?");
+int IDingrediente = int.Parse(Console.ReadLine());
+
+var informacaoIngrediente = await InformacaoSobreIngrediente.InformacaoIngrediente(IDingrediente);
+
+foreach(var Informacoes in informacaoIngrediente)
+{
+    Console.WriteLine("Nome do ingrediente:" + informacaoIngrediente.real_name);
+    Console.WriteLine("Estimativa do preço do produto:" + informacaoIngrediente.value);
+}
 
 
 
