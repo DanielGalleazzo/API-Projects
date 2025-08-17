@@ -125,11 +125,10 @@ int IDingrediente = int.Parse(Console.ReadLine());
 
 var informacaoIngrediente = await InformacaoSobreIngrediente.InformacaoIngrediente(IDingrediente);
 
-foreach(var Informacoes in informacaoIngrediente)
-{
-    Console.WriteLine("Nome do ingrediente:" + informacaoIngrediente.real_name);
-    Console.WriteLine("Estimativa do preço do produto:" + informacaoIngrediente.value);
-}
+
+    Console.WriteLine("Nome do ingrediente:" + informacaoIngrediente.RealName); // 57810
+    Console.WriteLine("Estimativa do preço do produto:" + informacaoIngrediente.EstimatedCost);
+
 
 
 

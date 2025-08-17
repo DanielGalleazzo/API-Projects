@@ -10,12 +10,20 @@ namespace FindMyRecipe.GetSet
     public class InformacaoSobreIngredienteGS
     {
         [JsonPropertyName("id")]
-        public int id { get; set; }
+        public int Id { get; set; }
 
         [JsonPropertyName("originalName")]
-        public string real_name { get; set; }
+        public string RealName { get; set; }
 
         [JsonPropertyName("estimatedCost")]
-        public double value { get; set; }
+        public EstimatedCost EstimatedCost { get; set; }
+    }
+    public class EstimatedCost
+    {
+        [JsonPropertyName("value")]
+        public double Value { get; set; }
+
+        [JsonPropertyName("unit")]
+        public string Unit { get; set; }
     }
 }
